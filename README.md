@@ -5,26 +5,51 @@
 
 const NicoleStruggia = {
   pronouns: "she" | "her",
-  skills: [Css, Html, Javascript, React, Python, Flask, mySQL],
-  tools: [Trello, Canva, Figma, Git, Jest, Postman, Vercel, Render, Redux]
+  soft_skills: [Multitask, Fast_Learner, Proactive, Problem_solver, Stress_management, Communicative, Leader],
+  Languages: [Spanish, English, German]
 }
 ```
+<p>My Skills</p>
+<p align="start">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,python,flask,mysql" />
+  </a>
+</p>
+
+<p>My Tools</p>
+<p align="start">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=redux,vscode,postman,nodejs,netlify, jest" />
+  </a>
+</p>
+
+```js
+const MoreTools = {
+  tools: [Firebase, Bootstrap, Vercel, Figma, Canva, Trello],
+}
+```
+
+<p>Learning And To Learn</p>
+
+```js
+const WantedSkills = {
+  tools: [Next.js, Three.js],
+}
+```
+
+
 <img src="https://user-images.githubusercontent.com/103970504/228384632-f3cd9f51-1a59-4762-8412-c3f407714c74.png" alt="Social media" width=30px/>  You can find me:
 - [Linkedin](https://www.linkedin.com/in/nicole-struggia/)
 - [Github](https://github.com/Nicolettastr)
-
 
 <!--
 **Nicolettastr/Nicolettastr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- I’m currently working on my portfolio and some projects.
+- I’m currently learning next.js and redux.
+- I’m looking for every piece of knoledge you can share.
+- Ask me about anything, I'm happy to help.
+- Fun fact: I'm a pug and gaming lover
 -->
