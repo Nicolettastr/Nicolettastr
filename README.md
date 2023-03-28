@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-https://photolab.me/r/YVLrJVW
+
+![photolab](https://user-images.githubusercontent.com/103970504/228355169-2d973529-8b51-4b43-9463-629caaede8a3.jpeg)
 
 ```js
 const NicoleStruggia = {
