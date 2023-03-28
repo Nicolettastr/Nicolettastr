@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+```js
+const NicoleStruggia = {
+  pronouns: "she" | "her",
+  skills: [Css, Html, Javascript, React, Python, Flask, mySQL],
+  tools: [Trello, Canva, Figma, Git, Jest, Postman, Vercel, Render, Redux]
+}
+```
+
 <!--
 **Nicolettastr/Nicolettastr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
