@@ -9,7 +9,7 @@ const NicoleStruggia = {
   Languages: [Spanish, English, German]
 }
 
-<img src="[https://user-images.githubusercontent.com/103970504/228382869-9c0284e1-1d8e-4131-881f-b46e2a4bc9f6.jpg](https://img.freepik.com/vector-gratis/ilustracion-concepto-codificar_114360-939.jpg?w=740&t=st=1697194720~exp=1697195320~hmac=c3ccf0c7341778b8e2b4d5f442ccfe0aba2053a9b15b4a5d8e924412939403f5)" alt="My introduction" width=700px height=380px />
+<img src="" alt="My introduction" width=700px height=380px />
 
 ```
 <p>My Skills</p>
