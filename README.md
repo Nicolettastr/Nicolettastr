@@ -8,10 +8,9 @@ const NicoleStruggia = {
   soft_skills: [Multitask, Fast_Learner, Proactive, Problem_solver, Stress_management, Communicative, Leader],
   Languages: [Spanish, English, German]
 }
-
+```
 <img src="https://img.freepik.com/vector-gratis/ilustracion-concepto-codificar_114360-939.jpg?w=740&t=st=1697194720~exp=1697195320~hmac=c3ccf0c7341778b8e2b4d5f442ccfe0aba2053a9b15b4a5d8e924412939403f5" alt="My introduction" width=700px height=380px />
 
-```
 <p>My Skills</p>
 <p align="start">
   <a href="https://skillicons.dev">
