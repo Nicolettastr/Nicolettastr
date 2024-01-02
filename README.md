@@ -9,7 +9,6 @@ const NicoleStruggia = {
   Languages: [Spanish, English, German]
 }
 ```
-<img src="" width=700px height=380px />
 
 <p>My Skills</p>
 <p align="start">
