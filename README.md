@@ -33,9 +33,26 @@ const MoreTools = {
 <p>Learning And To Learn</p>
 
 ```js
-const WantedSkills = {
-  tools: [Next.js, Three.js],
-}
+const WorkingOn = {
+  tools: ['Blender', 'Three.js', 'React Native', 'Next.js'],
+  thinkingSkills: [
+    'Analytical Thinking',
+    'Creativity',
+    'Critical Thinking',
+    'Problem Solving',
+    'Strategic Thinking'
+  ],
+  otherSkills: [
+    'Effective Communication',
+    'Teamwork',
+    'Adaptability',
+    'Leadership',
+    'Time Management',
+    'Empathy',
+    'Continuous Learning'
+  ]
+};
+
 ```
 
 
